@@ -11,13 +11,17 @@ DOMAIN-KEYWORD,zcr268
 DOMAIN-KEYWORD,apple
 
 # 获取ip DSM 用于直连
-DOMAIN,api.ipify.org
-DOMAIN,ipba.cc
-DOMAIN,whatismyip.akamai.com
-DOMAIN,v4.myip.la
-DOMAIN,ns1.dnspod.net
-DOMAIN,ip.bczs.net
-DOMAIN,ip-api.com
-DOMAIN,dockerproxy.com
+DOMAIN-SUFFIX,api.ipify.org
+DOMAIN-SUFFIX,ipba.cc
+DOMAIN-SUFFIX,whatismyip.akamai.com
+DOMAIN-SUFFIX,v4.myip.la
+DOMAIN-SUFFIX,ns1.dnspod.net
+DOMAIN-SUFFIX,ip.bczs.net
+DOMAIN-SUFFIX,ip-api.com
+
+# 其他
+DOMAIN-SUFFIX,dockerproxy.com
+DOMAIN-SUFFIX,docker.io
+
 
 IP-CIDR,152.70.94.146/32,no-resolve
