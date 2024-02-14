@@ -23,6 +23,6 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,dockerproxy.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,mypikpak.com
-DST-PORT,55555
+DST-PORT,1-79/81-442/444-65530
 
 IP-CIDR,152.70.94.146/32,no-resolve
